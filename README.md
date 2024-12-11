@@ -1,1 +1,1 @@
-# Project-based-on-python
+# python project using tkinter
